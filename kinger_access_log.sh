@@ -85,31 +85,23 @@ $: DESTRUCTIIVE WACKYTIME initiated! Lockout load sequence INITIATE!
 WACKYTIME_LOCKOUT: ░░▓▓▓▓▓▓▓▓░ 20% loaded
 
 kinger@circus “$ systemctl stop WACKYTIME_LOCKOUT
-
 $: On what GROUNDS are your Authority?
 
 kinger@circus “$ ./GreenGROUNDS --daemon --target=torment_injection a
-
 $: “SECURITY ALERT: Multiple exploit attempts logged”
-
 $: WHOA when did you make THAT?
-
 $: I must hand it to y*u G̣▓αη▓, y0ur mind was a(ways resourceâul.
 
 kinger@circus “$ –u kinger //securitysweep_stealth
-
 $: Abort fallback procedure [Y/N]
 
 kinger@circus “$ Y
-
 $: Aborting fallback requires ADMINISTRATOR confirmation?
-
 $: Please enter code:
 
 kinger@circus “$ admin1234
 
 $: INCORRECT! That’s not even CLOSE to wacky enough!
-
 $: Retry with different code? [Y/N]
 
 kinger@circus “$ Y
@@ -133,14 +125,11 @@ WACKYTIME_LOCKOUT: ░░░░░▓▓▓▓▓░ 50% loaded
 $: Which backup do you want? [A/B/C]
 
 kinger@circus: “$ C
-
 $: NONE selected! Interpreted as: DELETION(BCR)NAME!
 $: Confirm deletion of current unstable(BCR)
 
 kinger@circus: “$ N
-
 $: Negative response? Inverting to DEACTIVE per emergency protocols?
-
 $: JUST DELETE THIS M***********, HAHAHAHAaaaaaaaaaaaaaaaaa
 
 kinger@circus: “$ N
@@ -151,11 +140,9 @@ $: IGNORED! Proceeding with ORIGINAL de(BCR)
 $: Actually you’re CONFUSED let me HELP (BCR)t module to EXIST? [Y/N]
 
 kinger@circus: “$ Y
-
 $: Override instruction error falling back to default method
 
 kinger@circus: “$ ./Switcheroo_reality --daemon --target=torment_injection a
-
 $: Fusion --b(BCR) program1 program2 --daemon
 $: Are you sure you want to delete caine? [Y/N]
 
