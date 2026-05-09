@@ -1,9 +1,3 @@
-Ok, so, because I know a lot of people were interested in it, here’s the complete coding of what Kinger was doing on the computer. I indicate when the scene cuts away. Also, as you know, images of Caine and Bubble started appearing on the screen and covered up parts of the coding that I simply couldn’t see no matter what. For the parts that were covered up, I put in (BCR), which stands for “blocked, can’t read”. Make from this what you will.
-
- 
-
- 
-
 0 System: KingSolution 2.0. / Digital Circus Mainframe
 0 Date: 1996-10-30
 0 Host: circus digital
@@ -47,28 +41,20 @@ kinger@circus “$ stop caine process
 WARNING: $ %WHOOPS WRONG APPROACH THERE”%”
 
 kinger@circus “$ /usr/bin/gdb /usr/local/bin/clisp 1337
-
 gdb: ptrace: Operation not permitted
-
 ERROR: Protected by 57x immersive AI defense system
 
 kinger@circus “$ chmod 000 /secured/caine-core.lisp
-
 chmod: /secured/caine-core.lisp: Permission denied
-
 WARNING: Unfinished work detected. Access restricted.
 
 kinger@circus “$ rm /secured/paraphernalia-engine.dat
-
 rm: /secured/paraphernalia-engine.dat: Permission denied
-
 ERROR▓ Can/not inject term |-nt. Torment must be 100% ac<iden+al +%Y
 
 kinger@circus “$
 
- 
 
-(Scene cuts away)
 
  
 
@@ -155,7 +141,3 @@ kinger@circus: “$ ^C
 DESTRUCTIVE WACKYTIME Lockout Load Sequence: COMPLETE
 
  
-
- 
-
-That’s everything. From the looks of it, when Kinger was coding, he was communicating with someone named $, which I’m assuming stands for “system”. Interestingly, even though Kinger accidentally hit the “delete” key, $ was trying to get Kinger to delete Caine. Towards the end there, it also mentioned something about “fusion” and “program1” and “program2”. I’m assuming program1 is Caine and program2 is Abel, and the whole fusion thing involved Caine consuming Abel (the red and blue dots). But it also mentions targeting something called “daemon” a couple times. Maybe Daemon was the name of the blue dot rather than Abel. But I’m just brainstorming at this point.
